@@ -2,6 +2,7 @@ Quantum_RC_Manuel.ipynb
 data/data/synthetic_data_auto.npy
 data/data/dataset_Older.npy
 data/data/dataset_Younger.npy
+data/data/Yolanda_EEG_RS_2024.mat
 envolvente_quant_20_qub.png
 resultado_cuant_20_qub.png
 data_20_qubit.npy
