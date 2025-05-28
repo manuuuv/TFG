@@ -7,3 +7,4 @@ data/data/registerEEG.mat
 envolvente_quant_20_qub.png
 resultado_cuant_20_qub.png
 data_20_qubit.npy
+eeg_data/
