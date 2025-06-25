@@ -1,10 +1,14 @@
-Quantum_RC_Manuel.ipynb
 data/data/synthetic_data_auto.npy
 data/data/dataset_Older.npy
 data/data/dataset_Younger.npy
 data/data/Yolanda_EEG_RS_2024.mat
 data/data/registerEEG.mat
+data/data/Young_53_RS_SF.fdt
+data/data/Young_53_RS_SF.set
 envolvente_quant_20_qub.png
 resultado_cuant_20_qub.png
 data_20_qubit.npy
+clustering_real.npy
+clustering_real_cuant.npy
 eeg_data/
+tablas_result.md
