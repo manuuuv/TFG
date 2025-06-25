@@ -8,7 +8,7 @@ Este repositorio contiene el desarrollo de modelos clásicos y cuánticos de **R
   Contiene el notebook `RC_senyal_simple.ipynb`, con las primeras versiones del RC clásico y cuántico aplicadas a la señal sintética unidimensional de **dos frecuencias**.
 
 - **`senyal_compleja/`**  
-  Contiene `RC_senyal_compleja.ipynb`, donde se extienden los modelos RC a la señl sintética unidimensional de **cuatro frecuencias**.
+  Contiene `RC_senyal_compleja.ipynb`, donde se extienden los modelos RC a la señal sintética unidimensional de **cuatro frecuencias**.
 
 - **`senyales_simuladas/`**  
   Incluye el notebook `RC_senyales_simuladas.ipynb`, con:
