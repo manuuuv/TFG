@@ -1,4 +1,5 @@
-data/data/synthetic_data_auto.npy
+data/data/S2_YA_RS.set
+data/data/S13_OA_RS.set
 data/data/dataset_Older.npy
 data/data/dataset_Younger.npy
 data/data/Yolanda_EEG_RS_2024.mat
