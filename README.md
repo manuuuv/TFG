@@ -22,3 +22,6 @@ Este repositorio contiene el desarrollo de modelos clásicos y cuánticos de **R
 
 - **`YolandaOHBM2024-poster1682_DEFINITIVO.pdf`**  
   Póster utilizado como referencia inicial para el desarrollo del proyecto, que sirvió como punto de partida para estructurar la implementación del RC.
+
+- **`Clasificacion_de_EEG_reales_basada_en_tecnicas_cuanticas_de_reservoir_computing.pdf`**  
+  Memoria del proyecto en donde se explican todos los conceptos necesarios y se encuentran los resultados y experimentos del trabajo.
